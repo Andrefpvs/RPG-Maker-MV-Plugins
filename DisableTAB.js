@@ -15,7 +15,7 @@
 Graphics._onKeyDown = function(event) {
     if (!event.ctrlKey && !event.altKey) {
         switch (event.keyCode) {
-		case 9:   	// TAB
+	case 9:     // TAB
             event.preventDefault();
             break;
         case 113:   // F2
