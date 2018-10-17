@@ -1,6 +1,8 @@
 # RPG-Maker-MV-Plugins
 My RPG Maker MV plugins. Plugins add additional functionality to the game engine.
 
+### *Usage conditions on commercial projects:* Free to use if credit is given in-game to all authors.
+
 
 # Current Plugins
 ## DisableTAB
