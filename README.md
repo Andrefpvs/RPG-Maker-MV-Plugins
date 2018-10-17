@@ -1,7 +1,7 @@
 # RPG-Maker-MV-Plugins
 My RPG Maker MV plugins. Plugins add additional functionality to the game engine.
 
-### *Usage conditions for commercial projects:* Free to use and include if credit is given in-game to the author.
+### *Usage conditions for commercial and non-commercial projects:* Free to use and include if credit is given in-game to the author (André Fidalgo Silva).
 *Games that use the Yanfly Engine must also follow these terms of use: http://yanfly.moe/terms-of-use/*
 
 
