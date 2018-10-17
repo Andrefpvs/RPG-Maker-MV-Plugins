@@ -12,7 +12,7 @@ Changes TAB key behavior for compatibility with Zalerinian's Gamefocus plugin (h
 *Not enabling this plugin would cause the Gamefocus plugin to freeze the game if the TAB key is pressed alone. Alt+TAB still works after activating the DisableTAB plugin.*
 
 
-## CustomGoToTile
+## CustomGoToTitle
 Changes the default "Go to Title" window to one with transparency and larger width. This allows for menu consistency in games where the in-game menu is transparent.
 
 ## YEP_AFPVS_QuitGame
